@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rasya Justicio</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Golf Canvas](https://github.com/RasyaJusticio/GolfCanvas)
-
 - 🌱 I’m currently learning **Laravel, React, Bootstrap, Tailwind**
 
 <h3 align="left">Languages and Tools:</h3>
